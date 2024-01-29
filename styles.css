@@ -1,0 +1,78 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: rgb(255, 255, 255); /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+   
+padding: auto;
+    margin-top: 100px;
+
+
+
+}
+
+
+ 
+
+ 
+
+.top{
+    background-color: #ffffff;
+    height: 800px;
+    width:100%;
+ 
+    img {
+        border-radius: 15px;
+      }
+    
+ 
+}
+
+
+.right{
+    background-color: rgb(255, 255, 255);
+    height: 380px;
+    width: 100%;
+img {
+  border-radius: 8px;
+}
+
+
+
+    margin-top: 10px;
+
+ 
+}
+
+
+
+
+.left{
+    background-color: rgb(141, 0, 0);
+    height: 400px;
+    width: 100%;
+ color: aliceblue;
+    margin-top: 10px;
+padding-top: 10px ;
+    h1 {
+        
+text-shadow: 2px 2px 5px black;
+        
+}
+
+}
+
+
+
+.bottom{
+
+    background-color: rgb(26, 180, 6);
+    height: 200px;
+    width: 100%;
+ margin-top: 10px;
+   
+
+
+
+
+
+}
+
